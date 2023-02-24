@@ -100,3 +100,10 @@
   .navbar-toggler .navbar-toggler-icon:after {
     top: 8px;
   }
+
+  .custom-btn {
+    border: 0;
+    color: white;
+    font-size: 18px;
+    padding: 10px 35px;
+  }
