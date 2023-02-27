@@ -102,8 +102,8 @@
 }
 
 .heading span {
-  font-family:Verdana, Geneva, Tahoma, sans-serif ;
-   color: darkorchid ; 
+  font-family:'Montserrat', sans-serif ;
+   color: coral; 
    font-size: 40px
 }
 
@@ -123,11 +123,11 @@ div{
 
 .carousel-inner{
   position: relative;
-  margin-left:0;
+  margin-left: 10%;
     width: 80%;
-  
     overflow: hidden;
 }
+
 
 .carousel-indicators{
   position: absolute;
@@ -161,6 +161,8 @@ div{
     opacity: .5;
     transition: opacity .15s ease;
 }
+
+
 .carousel-item{
   position: relative;
   display: none;
@@ -173,14 +175,18 @@ div{
 }
 
 
+.carousel-item image{
+  width: 80%;
+  height: 300px;
+  margin-left: 10%;
+  object-fit: cover;
+} 
 
 
-
-/* Swipper css */
+/* Swipper */
 
 :root {
-  --swiper-theme-color: #007aff;
-  --swiper-navigation-size: 44px;
+  --swiper-theme-color: #007aff
 }
 
 .swiper {

@@ -306,6 +306,10 @@ strong {
   background-image: url('../images/header/rod-long-I79Pgmhmy5M-unsplash.jpg');
 }
 
+.site-service-header{
+  background-image: url('../images/gallery/gallery-2.jpg');
+}
+
 .overlay {
   background: linear-gradient(to top, var(--dark-color), transparent 100%);
   position: absolute;
@@ -314,6 +318,16 @@ strong {
   bottom: 0;
   left: 0;
 }
+
+.overlay2 {
+  background: linear-gradient(to top, var(--dark-color), transparent 100%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+
 
 
 /*---------------------------------------
