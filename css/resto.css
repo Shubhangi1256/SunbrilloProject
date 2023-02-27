@@ -483,6 +483,10 @@ strong {
   overflow: hidden;
 }
 
+.menu-thumb :hover{
+  background-color: var(--secondary-color);
+}
+
 .menu-info {
   padding: 20px 20px 30px 20px;
 }
