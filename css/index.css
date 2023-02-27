@@ -176,7 +176,7 @@ div{
 
 
 .carousel-item img{
-  width: 80%;
+  width: 90%;
   height: 500px;
   object-fit: cover;
   opacity: 0.6;
@@ -190,7 +190,14 @@ div{
   bottom: 0;
   left: 0;
 }
+.gallery-item{
+  margin: 5px;
+}
 
+.img-fluid{
+  border-radius: 10px;
+
+}
 /* Swipper */
 
 :root {
