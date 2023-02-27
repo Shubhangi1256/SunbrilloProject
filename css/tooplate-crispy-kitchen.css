@@ -707,6 +707,7 @@ strong {
   padding-top: 7rem;
   padding-bottom: 7rem;
   position: relative;
+  opacity: 0.3;
 }
 
 .site-footer::before {
