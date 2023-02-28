@@ -303,11 +303,15 @@ strong {
 }
 
 .site-contact-header {
-  background-image: url('../images/header/rod-long-I79Pgmhmy5M-unsplash.jpg');
+  background-image: url('../images/header/welcome.jpeg');
 }
 
 .site-service-header{
   background-image: url('../images/gallery/gallery-2.jpg');
+}
+
+.site-reserve-header{
+  background-image: url('../images/gallery/gallery-9.jpg');
 }
 
 .overlay {
